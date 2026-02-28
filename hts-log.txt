@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Feb 2026 08:25:47 at https://www.madebydesignesia.com/themes/jess/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.madebydesignesia.com/themes/jess/index.html -O1 "C:\buttttt" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:29:32	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.madebydesignesia.com/themes/jess/images/people/3.jpg (from https://www.madebydesignesia.com/themes/jess/index.html)
+08:29:32	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.madebydesignesia.com/themes/jess/project-details-image.html (from https://www.madebydesignesia.com/themes/jess/index.html)
+08:33:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.madebydesignesia.com/themes/jess/js/wow.min.js (from https://www.madebydesignesia.com/themes/jess/index.html)
+08:33:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.madebydesignesia.com/themes/jess/css/owl.video.play.png (from https://www.madebydesignesia.com/themes/jess/css/owl.carousel.css)
+08:34:12	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/style.css (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images/ui/arrow-down-form.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images/ui/arrow-down-form-hover.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/dotted.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/icon-slide-plus.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/icon-slide-min.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/close.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/close-2.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/icon-url.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/icon-zoom.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/list-arrow.png (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:28	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/images_02/page-loader.gif (from https://www.madebydesignesia.com/themes/jess/css/style.css)
+08:34:52	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.madebydesignesia.com/themes/jess/images/portfolio/pf-slider/3.jpg (from https://www.madebydesignesia.com/themes/jess/project-details-slider.html)
+08:35:04	Error: 	"Not Found" (404) at link https://www.madebydesignesia.com/themes/jess/css/owl.video.play.png (from https://www.madebydesignesia.com/themes/jess/css/owl.carousel.css)
+08:37:49	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.ttf (from https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/style.css)
+08:37:49	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.svg (from https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/style.css)
+08:38:04	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.ttf (from https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/style.css)
+08:38:04	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.svg (from https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/style.css)
+08:38:28	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.ttf (from https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/style.css)
+08:38:35	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/fonts/ElegantIcons.svg (from https://www.madebydesignesia.com/themes/jess/fonts/elegant_font/HTML_CSS/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 48 seconds : 105 links scanned, 80 files written (5211183 bytes overall) [4105617 bytes received at 5345 bytes/sec], 1623490 bytes transferred using HTTP compression in 39 files, ratio 24%, 1.7 requests per connection
+(14 errors, 10 warnings, 0 messages)
